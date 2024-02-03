@@ -1,0 +1,26 @@
+{
+  "slug": "Hutara",
+  "name": "Hutara Fm",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Hutara",
+  "author": "Hutara",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "FmOperator",
+      "name": "Fm Operator",
+      "description": "Fm Synthesizer",
+      "tags": [
+        "vco",
+        "Oscillator"
+      ]
+    }
+  ]
+}
