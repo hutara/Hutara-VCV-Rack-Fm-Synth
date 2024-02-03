@@ -1,4 +1,4 @@
-![Hutarafm](https://github.com/hutara/Hutara-VCV-Rack-Fm-Synth/assets/39126232/2a5c98c6-cb1f-4fb5-ba9e-47fbb65e6ae9)HUTARA Module For VCV RACK
+HUTARA Module For VCV RACK
 Psychedelic FM synthesis Synthesizer 
 ![hutara synth](https://github.com/hutara/Hutara-VCV-Rack-Fm-Synth/assets/39126232/6474139a-e7ac-4f0a-bb35-f2bb70b17f4a)
 
