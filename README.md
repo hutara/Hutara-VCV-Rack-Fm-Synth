@@ -1,8 +1,10 @@
 <h1>HUTARA Module For VCV RACK</h1> 
-<h1>Psychedelic FM Synthesis Synthesizer</h1>
+<h1>Psychedelic FM Synthesis VCO</h1>
 
 
-![hutara synth](https://github.com/hutara/Hutara-VCV-Rack-Fm-Synth/assets/39126232/041d7324-4bbd-4fb1-b088-1b066c03417f)
+
+![github](https://github.com/hutara/Hutara-VCV-Rack-Fm-Synth/assets/39126232/711ad46d-3f28-4c80-a235-05cc9238896c)
+
 
 
 
