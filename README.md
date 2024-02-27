@@ -6,8 +6,8 @@
 ![git1](https://github.com/hutara/Hutara-VCV-Rack-Fm-Synth/assets/39126232/d5fdcf80-8240-4945-879e-10703f7ae752)
 
 
+https://youtu.be/nuJy-Rm5gG0 
 
-https://www.youtube.com/watch?v=Xzw7JTVq2bk
 
 
 
