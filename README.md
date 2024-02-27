@@ -3,12 +3,12 @@
 
 
 
+![git1](https://github.com/hutara/Hutara-VCV-Rack-Fm-Synth/assets/39126232/d5fdcf80-8240-4945-879e-10703f7ae752)
 
-![github](https://github.com/hutara/Hutara-VCV-Rack-Fm-Synth/assets/39126232/0a87f403-64c8-4467-9041-12074522f131)
+
 
 https://www.youtube.com/watch?v=Xzw7JTVq2bk
 
-[![Watch the video](https://img.youtube.com/vi/Xzw7JTVq2bk/hqdefault.jpg)](https://www.youtube.com/watch?v=Xzw7JTVq2bk>)
 
 
 
