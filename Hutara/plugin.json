@@ -21,6 +21,14 @@
         "vco",
         "Oscillator"
       ]
+    },
+    {
+      "slug": "Hutara_Random_CV",
+      "name": "Hutara_Random_CV",
+      "description": "Random_CV",
+      "tags": [
+        "lfo"
+      ]
     }
   ]
 }
