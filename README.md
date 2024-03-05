@@ -10,7 +10,9 @@ https://youtu.be/nuJy-Rm5gG0
 
 
 
+<h1>HUTARA Random</h1> <h1>Random Gate and Sample&Hold </h1>
 
+![random](https://github.com/hutara/Hutara-VCV-Rack-Fm-Synth/assets/39126232/aec271f2-d479-4b3d-84d6-4f9a87474bf3)
 
 
 
