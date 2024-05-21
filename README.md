@@ -20,4 +20,4 @@ https://youtu.be/nuJy-Rm5gG0
 
 <h1>How to Add Plugins in VCV RAck:</h1> 
  
-<h2>copy paste "Hutara"  folder  to    :  Documents\Rack2\plugins-win-x64\</h2>
+<h2>copy paste "Hutara"  folder  to    :(New Vertion 2.5.2) C:\Users\...\AppData\Local\Rack2\plugins-win-x64   OR  (in old version) Documents\Rack2\plugins-win-x64\ </h2>
