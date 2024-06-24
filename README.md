@@ -1,5 +1,5 @@
 <h1>HUTARA Module For VCV RACK</h1> 
-<h1>Psychedelic VCO with FM Synthesis, Resample and Waveshaper </h1>
+<h1> VCO with FM Synthesis, Resample and Waveshaper </h1>
 
 
 
@@ -7,12 +7,12 @@
 
 
 https://youtu.be/nuJy-Rm5gG0 
-
-
-
 <h1>HUTARA Random</h1> <h1>Random Gate and Sample&Hold </h1>
 
-![random](https://github.com/hutara/Hutara-VCV-Rack-Fm-Synth/assets/39126232/aec271f2-d479-4b3d-84d6-4f9a87474bf3)
+
+![Hutara random gate cv](https://github.com/hutara/Hutara-VCV-Rack-Fm-Synth/assets/39126232/81d6d479-a873-4a05-b6da-a2b112eb0b17)
+
+
 
 
 
